@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSZonePluginUtils.Enums
+namespace CSZoneNet.Plugin.Utils.Enums
 {
     public enum BombSiteEnum
     {

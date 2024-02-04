@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace CSZonePluginUtils.Enums
+namespace CSZoneNet.Plugin.Utils.Enums
 {
     [JsonConverter(typeof(JsonStringEnumConverter))]
     public enum RoundTypeEnum
